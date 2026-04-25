@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# I'm Danylo 👋
+## Hi there, I'm Danylo 👋
 
 I am a high school student learning programming languages and blockchain development.
 
