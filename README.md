@@ -1,9 +1,17 @@
 ## Hi there 👋
 
-I am Danylo, a High School Student that learning Programming languages and Blockchain development 
+# I'm Danylo 👋
 
-Currrntly I am working on my own project: crypto-tracker
+I am a high school student learning programming languages and blockchain development.
 
-Tools I use: VScode, AI, Eclipse and that all I work on my Mac and Windows
+## 🚀 Current Project
+I am currently working on my own project: **crypto-tracker**
 
-To reach me, here is my gmail: antonomelcenko45@gmail.com
+## 🛠 Tools I use
+- Visual Studio Code  
+- AI tools  
+- Eclipse  
+- Mac & Windows
+
+## 📫 Contact
+You can reach me via email: antonomelcenko45@gmail.com
